@@ -1,2 +1,2 @@
-aiohttp==3.10.11
-homeassistant==2023.12.3
+aiohttp==3.11.13
+homeassistant==2025.3.4
